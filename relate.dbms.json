@@ -1,0 +1,36 @@
+{
+  "name": "tcr-graph-main 8688df39",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-8688df39-13e4-47ff-9026-bdef7fe4fcee"
+  ],
+  "id": "0e822c04-9482-41a5-933e-cf45b3dd2c85",
+  "metadata": {
+    "neo4jDesktopDbmsDatabases": [
+      {
+        "name": "neo4j",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": true,
+        "statistics": {
+          "nodes": 108,
+          "relationships": 238,
+          "labels": 6,
+          "relationshipTypes": 5,
+          "propertyKeys": 3
+        }
+      },
+      {
+        "name": "system",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": false
+      }
+    ]
+  },
+  "isCustomPathInstallation": false
+}

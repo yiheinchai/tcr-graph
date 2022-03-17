@@ -1,0 +1,25 @@
+﻿Directories in use:
+home:         C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85
+config:       C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\conf
+logs:         C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\logs
+plugins:      C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\plugins
+import:       C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\import
+data:         C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\data
+certificates: C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\certificates
+licenses:     C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\licenses
+run:          C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\run
+Starting Neo4j.
+2022-03-17 20:02:49.254+0000 INFO  Starting...
+2022-03-17 20:02:52.533+0000 INFO  This instance is ServerId{208c879d} (208c879d-26ec-42c6-852e-66b82f9fc0d9)
+2022-03-17 20:02:56.279+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-17 20:03:03.637+0000 INFO  Sending metrics to CSV file at C:\Users\chaiy\.Neo4jDesktop\relate-data\dbmss\dbms-0e822c04-9482-41a5-933e-cf45b3dd2c85\metrics
+2022-03-17 20:03:03.718+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-17 20:03:05.642+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-17 20:03:05.648+0000 INFO  id: 9FA5B9981F792FF435C328C655C503376B473837D5CC2772B26BC45F3DF4F7C7
+2022-03-17 20:03:05.649+0000 INFO  name: system
+2022-03-17 20:03:05.649+0000 INFO  creationDate: 2022-03-17T20:02:58.044Z
+2022-03-17 20:03:05.649+0000 INFO  Started.
+2022-03-17 20:50:48.650+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.Schema.ConstraintDropFailed]: Unable to drop constraint `CDR3_constraint`: No such constraint CDR3_constraint., reference c4f3d261-f061-4d12-8d43-e4b1f9fcf25a.
+2022-03-17 21:51:57.178+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-17 21:51:57.179+0000 INFO  Stopping...
+2022-03-17 21:51:57.180+0000 INFO  Stopped.
